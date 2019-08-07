@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Tesseract-OCR样本训练](https://sszsj.cc:444/articles/2019/08/06/1565096487696.html)
 * [被玩坏的清风明月](https://sszsj.cc:444/articles/2019/08/01/1564644492634.html)
 * [关于我](https://sszsj.cc:444/articles/2019/07/25/1564066081227.html)
 * [沙雕开始“XX”表情生成器](https://sszsj.cc:444/articles/2019/07/24/1563931842680.html)
@@ -29,7 +30,6 @@
 * [Gradle编译 Faile to resolve:support-media-compat](https://sszsj.cc:444/articles/2019/04/09/1554788508900.html)
 * [随便吧](https://sszsj.cc:444/articles/2019/04/08/1554722924806.html)
 * [湫之灵](https://sszsj.cc:444/articles/2019/03/26/1553603002975.html)
-* [在论道你排第几🤔🤔🤔](https://sszsj.cc:444/articles/2019/03/25/1553522155262.html)
 
 ### 热门
 
@@ -50,22 +50,23 @@
 * [手残](https://sszsj.cc:444/articles/2018/09/11/1536673111756.html)
 * [iPhooooooooone](https://sszsj.cc:444/articles/2018/09/13/1536839435421.html)
 * [新款2080ti煤气灶了解一下](https://sszsj.cc:444/articles/2018/08/21/1534859477167.html)
-* [所以，这有什么用？吃屎吧](https://sszsj.cc:444/articles/2017/07/05/1533348408121.html)
-* [教师节](https://sszsj.cc:444/articles/2018/09/10/1536582237854.html)
 * [深渊难度了](https://sszsj.cc:444/articles/2018/08/22/1534946193149.html)
+* [教师节](https://sszsj.cc:444/articles/2018/09/10/1536582237854.html)
+* [所以，这有什么用？吃屎吧](https://sszsj.cc:444/articles/2017/07/05/1533348408121.html)
 
 ### 热议
 
-* [爱殇](https://sszsj.cc:444/articles/2017/07/05/1533348409511.html)
-* [吃瓜吃瓜](https://sszsj.cc:444/articles/2018/09/03/1535981587481.html)
-* [玄不改非，氪不改命](https://sszsj.cc:444/articles/2018/08/26/1535286945932.html)
-* [飘零](https://sszsj.cc:444/articles/2017/08/05/1533348412918.html)
-* [钱德拉塞卡极限](https://sszsj.cc:444/articles/2017/07/05/1533348412121.html)
-* [Kotlin大法好-->"_"下划线的妙用](https://sszsj.cc:444/articles/2019/03/21/1553165686993.html)
-* [扯点没用的](https://sszsj.cc:444/articles/2017/07/05/1533348408464.html)
 * [写个有趣的事](https://sszsj.cc:444/articles/2017/07/14/1533348406433.html)
 * [人在家中坐，锅从天上来](https://sszsj.cc:444/articles/2018/08/24/1535116338137.html)
+* [在论道你排第几🤔🤔🤔](https://sszsj.cc:444/articles/2019/03/25/1553522155262.html)
+* [钱德拉塞卡极限](https://sszsj.cc:444/articles/2017/07/05/1533348412121.html)
+* [吃瓜吃瓜](https://sszsj.cc:444/articles/2018/09/03/1535981587481.html)
+* [爱殇](https://sszsj.cc:444/articles/2017/07/05/1533348409511.html)
+* [扯点没用的](https://sszsj.cc:444/articles/2017/07/05/1533348408464.html)
 * [搞钱搞钱](https://sszsj.cc:444/articles/2018/08/14/1534250994945.html)
+* [Kotlin大法好-->"_"下划线的妙用](https://sszsj.cc:444/articles/2019/03/21/1553165686993.html)
+* [飘零](https://sszsj.cc:444/articles/2017/08/05/1533348412918.html)
+* [玄不改非，氪不改命](https://sszsj.cc:444/articles/2018/08/26/1535286945932.html)
 * [平安夜](https://sszsj.cc:444/articles/2018/12/24/1545650272572.html)
 * [画舫烟中浅](https://sszsj.cc:444/articles/2019/03/03/1551617516590.html)
 * [新年快乐](https://sszsj.cc:444/articles/2019/02/05/1549354187842.html)
@@ -73,7 +74,6 @@
 * [做个好人](https://sszsj.cc:444/articles/2018/08/29/1535549948833.html)
 * [拯救世界](https://sszsj.cc:444/articles/2018/08/31/1535727300181.html)
 * [本来想写别的忘记了……](https://sszsj.cc:444/articles/2018/09/04/1536067043416.html)
-* [我又来了](https://sszsj.cc:444/articles/2018/08/05/1533472817433.html)
 * [暗流涌动](https://sszsj.cc:444/articles/2018/08/23/1535021927870.html)
 * [更新了……](https://sszsj.cc:444/articles/2018/09/19/1537367063132.html)
 
