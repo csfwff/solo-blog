@@ -5,11 +5,12 @@
 <h4 align="center">forever alone forever sad</h4>
 <p align="center"><a title="鼠鼠在碎觉" target="_blank" href="https://github.com/csfwff/solo-blog"><img src="https://img.shields.io/github/last-commit/csfwff/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/csfwff/solo-blog"><img src="https://img.shields.io/github/repo-size/csfwff/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/csfwff/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [使用node实现社区自动签到](https://sszsj.cc:444/articles/2019/08/19/1566187412149.html)
 * [无尽的梦魇](https://sszsj.cc:444/articles/2019/08/16/1565962481242.html)
 * [梨花雨](https://sszsj.cc:444/articles/2019/08/09/1565357654227.html)
 * [Tesseract-OCR样本训练](https://sszsj.cc:444/articles/2019/08/06/1565096487696.html)
@@ -27,7 +28,6 @@
 * [使用nodejs和adb shell 操作手机](https://sszsj.cc:444/articles/2019/05/13/1557755273356.html)
 * [我的开源](https://sszsj.cc:444/my-github-repos)
 * [病态](https://sszsj.cc:444/articles/2019/04/16/1555421378133.html)
-* [浮生六记---卷一·闺房记乐](https://sszsj.cc:444/articles/2019/04/11/1554990408342.html)
 * [反社交属性Max](https://sszsj.cc:444/articles/2019/04/10/1554826279823.html)
 * [Gradle编译 Faile to resolve:support-media-compat](https://sszsj.cc:444/articles/2019/04/09/1554788508900.html)
 
@@ -47,34 +47,34 @@
 * [WPS表格使用VBA脚本实现链接自动获取图片](https://sszsj.cc:444/articles/2019/02/01/1549029322040.html)
 * [雨血——这场雨何时能停](https://sszsj.cc:444/articles/2017/07/05/1533348412480.html)
 * [平平淡淡才是真](https://sszsj.cc:444/articles/2018/08/28/1535463278466.html)
+* [iPhooooooooone](https://sszsj.cc:444/articles/2018/09/13/1536839435421.html)
 * [所以，这有什么用？吃屎吧](https://sszsj.cc:444/articles/2017/07/05/1533348408121.html)
 * [手残](https://sszsj.cc:444/articles/2018/09/11/1536673111756.html)
-* [iPhooooooooone](https://sszsj.cc:444/articles/2018/09/13/1536839435421.html)
 * [新款2080ti煤气灶了解一下](https://sszsj.cc:444/articles/2018/08/21/1534859477167.html)
 * [教师节](https://sszsj.cc:444/articles/2018/09/10/1536582237854.html)
-* [教程 | 软件著作权申请流程](https://sszsj.cc:444/articles/2019/02/18/1550476807887.html)
+* [深渊难度了](https://sszsj.cc:444/articles/2018/08/22/1534946193149.html)
 
 ### 热议
 
-* [我又来了](https://sszsj.cc:444/articles/2018/08/05/1533472817433.html)
-* [画烟雨](https://sszsj.cc:444/articles/2017/07/05/1533348410464.html)
-* [在论道你排第几🤔🤔🤔](https://sszsj.cc:444/articles/2019/03/25/1553522155262.html)
-* [玄不改非，氪不改命](https://sszsj.cc:444/articles/2018/08/26/1535286945932.html)
-* [湫之灵](https://sszsj.cc:444/articles/2019/03/26/1553603002975.html)
-* [假设开发一个诗词自动生成机，那么在现有条件下，这个自动生成机所生成的诗词能否满足人们的审美需求？](https://sszsj.cc:444/articles/2017/07/05/1533348405902.html)
-* [萤火之森——不管发生什么绝对不要碰我哦](https://sszsj.cc:444/articles/2017/07/05/1533348411714.html)
-* [坏掉のRadio](https://sszsj.cc:444/articles/2017/07/05/1533348407105.html)
-* [做个好人](https://sszsj.cc:444/articles/2018/08/29/1535549948833.html)
 * [更新了……](https://sszsj.cc:444/articles/2018/09/19/1537367063132.html)
 * [随便吧](https://sszsj.cc:444/articles/2019/04/08/1554722924806.html)
+* [背对阳光](https://sszsj.cc:444/articles/2017/07/08/1533348410761.html)
+* [画烟雨](https://sszsj.cc:444/articles/2017/07/05/1533348410464.html)
+* [扯点没用的](https://sszsj.cc:444/articles/2017/07/05/1533348408464.html)
+* [你觉得快速公交BRT系统有没有为出行带来比较大的便利？](https://sszsj.cc:444/articles/2017/07/05/1533348405293.html)
+* [萤火之森——不管发生什么绝对不要碰我哦](https://sszsj.cc:444/articles/2017/07/05/1533348411714.html)
+* [爱殇](https://sszsj.cc:444/articles/2017/07/05/1533348409511.html)
+* [坏掉のRadio](https://sszsj.cc:444/articles/2017/07/05/1533348407105.html)
+* [我肥来了~耶](https://sszsj.cc:444/articles/2017/07/04/1533348407761.html)
+* [湫之灵](https://sszsj.cc:444/articles/2019/03/26/1553603002975.html)
+* [飘零](https://sszsj.cc:444/articles/2017/08/05/1533348412918.html)
+* [做个好人](https://sszsj.cc:444/articles/2018/08/29/1535549948833.html)
 * [本来想写别的忘记了……](https://sszsj.cc:444/articles/2018/09/04/1536067043416.html)
 * [人在家中坐，锅从天上来](https://sszsj.cc:444/articles/2018/08/24/1535116338137.html)
-* [深渊难度了](https://sszsj.cc:444/articles/2018/08/22/1534946193149.html)
 * [暗流涌动](https://sszsj.cc:444/articles/2018/08/23/1535021927870.html)
+* [吃瓜吃瓜](https://sszsj.cc:444/articles/2018/09/03/1535981587481.html)
 * [新年快乐](https://sszsj.cc:444/articles/2019/02/05/1549354187842.html)
-* [爱殇](https://sszsj.cc:444/articles/2017/07/05/1533348409511.html)
 * [钱德拉塞卡极限](https://sszsj.cc:444/articles/2017/07/05/1533348412121.html)
-* [扯点没用的](https://sszsj.cc:444/articles/2017/07/05/1533348408464.html)
 * [写个有趣的事](https://sszsj.cc:444/articles/2017/07/14/1533348406433.html)
 
 ---
