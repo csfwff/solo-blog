@@ -5,11 +5,12 @@
 <h4 align="center">forever alone forever sad</h4>
 <p align="center"><a title="鼠鼠在碎觉" target="_blank" href="https://github.com/csfwff/solo-blog"><img src="https://img.shields.io/github/last-commit/csfwff/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/csfwff/solo-blog"><img src="https://img.shields.io/github/repo-size/csfwff/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/csfwff/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [缺氧](https://sszsj.cc:444/articles/2019/09/17/1568701857696.html)
 * [最终幻想2----轮班的4号，白给的敏武](https://sszsj.cc:444/articles/2019/09/11/1568209682009.html)
 * [最终幻想----一切的幻想从这里开始](https://sszsj.cc:444/articles/2019/09/07/1567834362634.html)
 * [使用node实现社区自动签到](https://sszsj.cc:444/articles/2019/08/19/1566187412149.html)
@@ -29,7 +30,6 @@
 * [使用NodeJS下载整部漫画](https://sszsj.cc:444/articles/2019/05/13/1557758069371.html)
 * [使用nodejs和adb shell 操作手机](https://sszsj.cc:444/articles/2019/05/13/1557755273356.html)
 * [我的开源](https://sszsj.cc:444/my-github-repos)
-* [病态](https://sszsj.cc:444/articles/2019/04/16/1555421378133.html)
 
 ### 热门
 
@@ -57,7 +57,15 @@
 ### 热议
 
 * [我肥来了~耶](https://sszsj.cc:444/articles/2017/07/04/1533348407761.html)
+* [爱殇](https://sszsj.cc:444/articles/2017/07/05/1533348409511.html)
+* [背对阳光](https://sszsj.cc:444/articles/2017/07/08/1533348410761.html)
+* [写个有趣的事](https://sszsj.cc:444/articles/2017/07/14/1533348406433.html)
+* [假设开发一个诗词自动生成机，那么在现有条件下，这个自动生成机所生成的诗词能否满足人们的审美需求？](https://sszsj.cc:444/articles/2017/07/05/1533348405902.html)
+* [钱德拉塞卡极限](https://sszsj.cc:444/articles/2017/07/05/1533348412121.html)
+* [病态](https://sszsj.cc:444/articles/2019/04/16/1555421378133.html)
+* [画烟雨](https://sszsj.cc:444/articles/2017/07/05/1533348410464.html)
 * [萤火之森——不管发生什么绝对不要碰我哦](https://sszsj.cc:444/articles/2017/07/05/1533348411714.html)
+* [吃瓜吃瓜](https://sszsj.cc:444/articles/2018/09/03/1535981587481.html)
 * [朋友是什么](https://sszsj.cc:444/articles/2017/07/05/1533348408949.html)
 * [React Native debug正常，release闪退](https://sszsj.cc:444/articles/2019/03/14/1552566949418.html)
 * [你觉得快速公交BRT系统有没有为出行带来比较大的便利？](https://sszsj.cc:444/articles/2017/07/05/1533348405293.html)
@@ -65,17 +73,9 @@
 * [更新了……](https://sszsj.cc:444/articles/2018/09/19/1537367063132.html)
 * [湫之灵](https://sszsj.cc:444/articles/2019/03/26/1553603002975.html)
 * [反社交属性Max](https://sszsj.cc:444/articles/2019/04/10/1554826279823.html)
-* [画烟雨](https://sszsj.cc:444/articles/2017/07/05/1533348410464.html)
 * [扯点没用的](https://sszsj.cc:444/articles/2017/07/05/1533348408464.html)
-* [深渊难度了](https://sszsj.cc:444/articles/2018/08/22/1534946193149.html)
-* [我又来了](https://sszsj.cc:444/articles/2018/08/05/1533472817433.html)
-* [Gradle编译 Faile to resolve:support-media-compat](https://sszsj.cc:444/articles/2019/04/09/1554788508900.html)
-* [做个好人](https://sszsj.cc:444/articles/2018/08/29/1535549948833.html)
-* [坏掉のRadio](https://sszsj.cc:444/articles/2017/07/05/1533348407105.html)
-* [写个有趣的事](https://sszsj.cc:444/articles/2017/07/14/1533348406433.html)
 * [随便吧](https://sszsj.cc:444/articles/2019/04/08/1554722924806.html)
 * [在论道你排第几🤔🤔🤔](https://sszsj.cc:444/articles/2019/03/25/1553522155262.html)
-* [背对阳光](https://sszsj.cc:444/articles/2017/07/08/1533348410761.html)
 
 ---
 
