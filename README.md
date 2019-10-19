@@ -41,8 +41,8 @@
 * [电饭煲是如何判断米饭已经熟了？](https://sszsj.top/articles/2017/07/05/1533348410074.html)
 * [花落](https://sszsj.top/articles/2017/07/22/1533348411293.html)
 * [使用nodejs和adb shell 操作手机](https://sszsj.top/articles/2019/05/13/1557755273356.html)
-* [本来又想偷懒的](https://sszsj.top/articles/2018/09/06/1536240300480.html)
 * [为什么有的交通路口红灯亮允许右转？](https://sszsj.top/articles/2017/07/05/1533348404152.html)
+* [本来又想偷懒的](https://sszsj.top/articles/2018/09/06/1536240300480.html)
 * [我的开源](https://sszsj.top/my-github-repos)
 * [发布会](https://sszsj.top/articles/2018/09/12/1536757460449.html)
 * [WPS表格使用VBA脚本实现链接自动获取图片](https://sszsj.top/articles/2019/02/01/1549029322040.html)
@@ -57,11 +57,11 @@
 ### 热议
 
 * [我肥来了~耶](https://sszsj.top/articles/2017/07/04/1533348407761.html)
+* [你觉得快速公交BRT系统有没有为出行带来比较大的便利？](https://sszsj.top/articles/2017/07/05/1533348405293.html)
 * [React Native debug正常，release闪退](https://sszsj.top/articles/2019/03/14/1552566949418.html)
-* [深渊难度了](https://sszsj.top/articles/2018/08/22/1534946193149.html)
 * [朋友是什么](https://sszsj.top/articles/2017/07/05/1533348408949.html)
-* [飘零](https://sszsj.top/articles/2017/08/05/1533348412918.html)
 * [更新了……](https://sszsj.top/articles/2018/09/19/1537367063132.html)
+* [飘零](https://sszsj.top/articles/2017/08/05/1533348412918.html)
 * [教程 | 软件著作权申请流程](https://sszsj.top/articles/2019/02/18/1550476807887.html)
 * [反社交属性Max](https://sszsj.top/articles/2019/04/10/1554826279823.html)
 * [iPhooooooooone](https://sszsj.top/articles/2018/09/13/1536839435421.html)
