@@ -5,7 +5,7 @@
 <h4 align="center">forever alone forever sad</h4>
 <p align="center"><a title="鼠鼠在碎觉" target="_blank" href="https://github.com/csfwff/solo-blog"><img src="https://img.shields.io/github/last-commit/csfwff/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/csfwff/solo-blog"><img src="https://img.shields.io/github/repo-size/csfwff/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/csfwff/solo-blog.svg"></a></p>
 
 ### 最新
@@ -50,30 +50,30 @@
 * [雨血——这场雨何时能停](https://sszsj.top/articles/2017/07/05/1533348412480.html)
 * [使用NodeJS下载整部漫画](https://sszsj.top/articles/2019/05/13/1557758069371.html)
 * [湫之灵](https://sszsj.top/articles/2019/03/26/1553603002975.html)
-* [新款2080ti煤气灶了解一下](https://sszsj.top/articles/2018/08/21/1534859477167.html)
 * [所以，这有什么用？吃屎吧](https://sszsj.top/articles/2017/07/05/1533348408121.html)
+* [新款2080ti煤气灶了解一下](https://sszsj.top/articles/2018/08/21/1534859477167.html)
 * [平平淡淡才是真](https://sszsj.top/articles/2018/08/28/1535463278466.html)
 
 ### 热议
 
 * [我肥来了~耶](https://sszsj.top/articles/2017/07/04/1533348407761.html)
+* [深渊难度了](https://sszsj.top/articles/2018/08/22/1534946193149.html)
+* [反社交属性Max](https://sszsj.top/articles/2019/04/10/1554826279823.html)
+* [教程 | 软件著作权申请流程](https://sszsj.top/articles/2019/02/18/1550476807887.html)
+* [更新了……](https://sszsj.top/articles/2018/09/19/1537367063132.html)
+* [飘零](https://sszsj.top/articles/2017/08/05/1533348412918.html)
+* [你觉得快速公交BRT系统有没有为出行带来比较大的便利？](https://sszsj.top/articles/2017/07/05/1533348405293.html)
+* [React Native debug正常，release闪退](https://sszsj.top/articles/2019/03/14/1552566949418.html)
+* [朋友是什么](https://sszsj.top/articles/2017/07/05/1533348408949.html)
+* [萤火之森——不管发生什么绝对不要碰我哦](https://sszsj.top/articles/2017/07/05/1533348411714.html)
+* [画烟雨](https://sszsj.top/articles/2017/07/05/1533348410464.html)
+* [病态](https://sszsj.top/articles/2019/04/16/1555421378133.html)
+* [钱德拉塞卡极限](https://sszsj.top/articles/2017/07/05/1533348412121.html)
+* [假设开发一个诗词自动生成机，那么在现有条件下，这个自动生成机所生成的诗词能否满足人们的审美需求？](https://sszsj.top/articles/2017/07/05/1533348405902.html)
+* [写个有趣的事](https://sszsj.top/articles/2017/07/14/1533348406433.html)
+* [背对阳光](https://sszsj.top/articles/2017/07/08/1533348410761.html)
 * [爱殇](https://sszsj.top/articles/2017/07/05/1533348409511.html)
 * [吃瓜吃瓜](https://sszsj.top/articles/2018/09/03/1535981587481.html)
-* [背对阳光](https://sszsj.top/articles/2017/07/08/1533348410761.html)
-* [写个有趣的事](https://sszsj.top/articles/2017/07/14/1533348406433.html)
-* [假设开发一个诗词自动生成机，那么在现有条件下，这个自动生成机所生成的诗词能否满足人们的审美需求？](https://sszsj.top/articles/2017/07/05/1533348405902.html)
-* [钱德拉塞卡极限](https://sszsj.top/articles/2017/07/05/1533348412121.html)
-* [病态](https://sszsj.top/articles/2019/04/16/1555421378133.html)
-* [画烟雨](https://sszsj.top/articles/2017/07/05/1533348410464.html)
-* [萤火之森——不管发生什么绝对不要碰我哦](https://sszsj.top/articles/2017/07/05/1533348411714.html)
-* [朋友是什么](https://sszsj.top/articles/2017/07/05/1533348408949.html)
-* [React Native debug正常，release闪退](https://sszsj.top/articles/2019/03/14/1552566949418.html)
-* [你觉得快速公交BRT系统有没有为出行带来比较大的便利？](https://sszsj.top/articles/2017/07/05/1533348405293.html)
-* [飘零](https://sszsj.top/articles/2017/08/05/1533348412918.html)
-* [更新了……](https://sszsj.top/articles/2018/09/19/1537367063132.html)
-* [教程 | 软件著作权申请流程](https://sszsj.top/articles/2019/02/18/1550476807887.html)
-* [反社交属性Max](https://sszsj.top/articles/2019/04/10/1554826279823.html)
-* [iPhooooooooone](https://sszsj.top/articles/2018/09/13/1536839435421.html)
 * [随便吧](https://sszsj.top/articles/2019/04/08/1554722924806.html)
 * [在论道你排第几🤔🤔🤔](https://sszsj.top/articles/2019/03/25/1553522155262.html)
 
