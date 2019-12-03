@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [记一次糟心的收房历程](https://sszsj.top/articles/2019/12/02/1575268996836.html)
 * [呐~现在开始要放晴了哦](https://sszsj.top/articles/2019/11/25/1574680383245.html)
 * [butter knife 常用注解记录](https://sszsj.top/articles/2019/11/14/1573698361728.html)
 * [Auto.js自动评选赛复杂食用教程](https://sszsj.top/articles/2019/11/06/1573019191477.html)
@@ -29,7 +30,6 @@
 * [沙雕开始“XX”表情生成器](https://sszsj.top/articles/2019/07/24/1563931842680.html)
 * [终究是活不成你们想要的样子](https://sszsj.top/articles/2019/07/19/1563541443587.html)
 * [永远丧的这一辈子，以及下一辈子。](https://sszsj.top/articles/2019/07/13/1562981330149.html)
-* [程序员的乐趣是什么？](https://sszsj.top/articles/2019/07/13/1562980582212.html)
 
 ### 热门
 
@@ -57,16 +57,16 @@
 ### 热议
 
 * [我肥来了~耶](https://sszsj.top/articles/2017/07/04/1533348407761.html)
-* [反社交属性Max](https://sszsj.top/articles/2019/04/10/1554826279823.html)
-* [扯点没用的](https://sszsj.top/articles/2017/07/05/1533348408464.html)
-* [你觉得快速公交BRT系统有没有为出行带来比较大的便利？](https://sszsj.top/articles/2017/07/05/1533348405293.html)
 * [React Native debug正常，release闪退](https://sszsj.top/articles/2019/03/14/1552566949418.html)
 * [朋友是什么](https://sszsj.top/articles/2017/07/05/1533348408949.html)
 * [平平淡淡才是真](https://sszsj.top/articles/2018/08/28/1535463278466.html)
 * [萤火之森——不管发生什么绝对不要碰我哦](https://sszsj.top/articles/2017/07/05/1533348411714.html)
+* [你觉得快速公交BRT系统有没有为出行带来比较大的便利？](https://sszsj.top/articles/2017/07/05/1533348405293.html)
+* [飘零](https://sszsj.top/articles/2017/08/05/1533348412918.html)
+* [画烟雨](https://sszsj.top/articles/2017/07/05/1533348410464.html)
+* [反社交属性Max](https://sszsj.top/articles/2019/04/10/1554826279823.html)
 * [iPhooooooooone](https://sszsj.top/articles/2018/09/13/1536839435421.html)
 * [更新了……](https://sszsj.top/articles/2018/09/19/1537367063132.html)
-* [画烟雨](https://sszsj.top/articles/2017/07/05/1533348410464.html)
 * [病态](https://sszsj.top/articles/2019/04/16/1555421378133.html)
 * [钱德拉塞卡极限](https://sszsj.top/articles/2017/07/05/1533348412121.html)
 * [假设开发一个诗词自动生成机，那么在现有条件下，这个自动生成机所生成的诗词能否满足人们的审美需求？](https://sszsj.top/articles/2017/07/05/1533348405902.html)
@@ -75,7 +75,7 @@
 * [爱殇](https://sszsj.top/articles/2017/07/05/1533348409511.html)
 * [吃瓜吃瓜](https://sszsj.top/articles/2018/09/03/1535981587481.html)
 * [Kotlin大法好-->"_"下划线的妙用](https://sszsj.top/articles/2019/03/21/1553165686993.html)
-* [玄不改非，氪不改命](https://sszsj.top/articles/2018/08/26/1535286945932.html)
+* [程序员的乐趣是什么？](https://sszsj.top/articles/2019/07/13/1562980582212.html)
 
 ---
 
